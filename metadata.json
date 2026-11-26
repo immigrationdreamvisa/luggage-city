@@ -1,0 +1,6 @@
+{
+  "name": "Luggage City",
+  "description": "Canada's premier specialty luggage retailer, authorized repair centre, and corporate careers portal featuring Samsonite, Briggs & Riley, Verage, Pacsafe, JanSport, and Secrid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
